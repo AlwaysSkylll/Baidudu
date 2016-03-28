@@ -1,0 +1,11 @@
+body{padding:auto;margin:auto;width:100%;min-width:520px;}
+.container{border:2px solid #999;overflow:auto;background:#eee;padding:20px;margin-top:20px;margin-left:20px;margin-right:20px;}
+.left,.middle,.right{border:2px solid #999;background-color:white;padding:20px;overflow:auto;}
+.left{width:160px;float:left;}
+.left .logo{width:80px;float:left;height:80px;}
+.left p{float:left;}
+.middle{margin-right:140px;margin-left:220px;height:250px;}
+.right{width:80px;float:right;padding-bottom:0px;}
+.team {margin-left:100px;}
+.team span{font-size:15px;font-weight:600;}
+.member{border:2px solid #999;width:80px;height:80px;margin-bottom:20px;}
