@@ -1,0 +1,38 @@
+body{width:100%;padding:0px;margin:0px;}
+.bgcolor{background-color:#dedede;}
+.top_logo{position:relative;left:40px;top:10px;}
+.nav,.bottom{background-color:#333333;height:60px;}
+.nav li{float:left;width:80px;font-size:12px;}
+.link_list{float:right;position:relative;width:340px;top:5px;left:22px;}
+.link_type1{color:white;}
+.link_type2{color:gray;}
+.link_type1,.link_type2{text-decoration:none;font-weight:bold;}
+.content,.content2{margin-top:20px;margin-left:auto;margin-right:auto;width:1240px;background-color:white;height:100%;box-shadow:2px 2px 2px #888;border:1px solid #cdcdcd ;}
+.content2{margin-top:45px;width:1220px;position:relative;right:10px;}
+.passage{margin-left:auto;margin-right:auto;width:1200px;padding:20px;}
+.artical{text-indent:2em;}
+.normal_text,.artical span,ul,ol{font-size:15px;font-weight:600;line-height:160%;font-family:"SimHei";}
+h1{font-size:22px;font-weight:bolder;font-family:"SimHei";}
+h2{font-size:16px;font-family:"SimHei";color:#7e7e7e;}
+h3{font-size:11px;font-family:"SimHei";margin-top:10px;color:#7d7d7d;}
+.passage ul{list-style:none;position:relative;right:15px;}
+.passage .pic_title{border:2px solid #dedede;width:150px;text-align:center;height:125px;position:relative;left:40px;top:5px;margin-top:20px;}
+.passage .pic_title p{font-size:12px;fong-weight:600;}
+.pic_title img{width:130px;}
+.table1 {width:1200px;font-size:12px;font-family:"SimHei";border-collapse:collapse;}
+.table1 td{padding:5px;border:1px solid #ccc;}
+.tr_head td{background-color:#333;color:white;}
+.tr_bottom td{background-color:#ccc;font-family:"SimHei";font-weight:900;}
+.left_div{background-color:#ccc;border-left:4px solid #ccc;display:inline;font-size:28px;padding-bottom:10px;}
+.form_title .text_type{padding-left:10px;font-size:15px;font-family:"SimHei";font-weight:900;display:inline;}
+.form_title {padding:10px;height:20px;position:relative;right:10px;}
+.form{position:relative;top:20px;font-size:12px;font-weight:500;}
+.form span{float:left;width:350px;text-align:right;padding-top:5px;padding-right:10px;}
+.form div{margin-top:10px;}
+.form p{color:#ccc;font-weight:800;position:relative;bottom:5px;}
+.form .putin{width:130px;}
+.form textarea{width:750px;height:100px}
+.bottom{background-color:#000;margin-top:20px;height:70px;}
+.bottom p{color:white;font-size:13px;text-align:center;font-weight:600;padding-top:25px;}
+.btn a{width:1180px;;background-color:#3355d0;color:white;display:block;text-align:center;padding:10px 0px 10px 0px;text-decoration:none;border-radius:10px;text-shadow:1px 1px 1px #000;font-size:16px;font-weight:800;box-shadow:1px 1px 1px #000;}
+.btn{padding-bottom:20px;}
