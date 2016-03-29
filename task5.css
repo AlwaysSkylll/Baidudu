@@ -1,5 +1,5 @@
 body{width:auto;padding:0px;margin:0px;}
-.bgcolor{background-color:#dedede;padding:20px;}
+.bgcolor{background-color:#dedede;padding:20px;padding-bottom:0px;display:flex;}
 .top_logo{position:relative;left:40px;top:10px;}
 .nav,.bottom{background-color:#333333;height:60px;}
 .nav li{float:left;width:80px;font-size:12px;}
@@ -24,7 +24,7 @@ h3{font-size:11px;font-family:"SimHei";margin-top:10px;color:#7d7d7d;}
 .tr_bottom td{background-color:#ccc;font-family:"SimHei";font-weight:900;}
 .left_div{background-color:#ccc;border-left:4px solid #ccc;display:inline;font-size:28px;padding-bottom:10px;}
 .form_title .text_type{padding-left:10px;font-size:15px;font-family:"SimHei";font-weight:900;display:inline;}
-.form_title {padding:10px;height:20px;position:relative;right:10px;}
+.form_title {padding:10px;height:20px;position:relative;right:10px;width:350px;}
 .form{margin-top:20px;font-size:12px;font-weight:500;width:auto;}
 .form span{float:left;width:100px;text-align:right;padding-top:5px;padding-right:10px;}
 .form div{margin-top:10px;}
@@ -35,6 +35,6 @@ h3{font-size:11px;font-family:"SimHei";margin-top:10px;color:#7d7d7d;}
 .bottom p{color:white;font-size:13px;text-align:center;font-weight:600;margin-top:0px;padding-top:25px;}
 .btn a{width:95%;background-color:#3355d0;color:white;display:inline-block;text-align:center;padding:10px 0px 10px 0px;text-decoration:none;border-radius:10px;text-shadow:1px 1px 1px #000;font-size:16px;font-weight:800;box-shadow:1px 1px 1px #000;}
 .btn{margin-bottom:20px;text-align:center;}
-.box1{width:auto;overflow:auto;}
+.box1{width:auto;}
 .box2{float:right;width:350px;margin-left:20px;}
 .box3{display:flex;flex-wrap:wrap;padding-bottom:20px;}
